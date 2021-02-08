@@ -1,0 +1,107 @@
+.header {
+background-color: blue;
+padding: 10px;
+margin: none;
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-end;
+}
+
+a {
+border-radius: 6px;
+}
+
+.one {
+background-color: rgb(252, 185, 243);
+border:25px;
+padding: 1%;
+text-decoration: none;
+}
+
+.two {
+background-color: rgb(248, 152, 235);
+border: 25px;
+padding: 1%;
+text-decoration: none;
+
+}
+
+.three {
+background-color: rgb(250, 137, 235);
+border: 25px;
+padding: 1%;
+text-decoration: none;
+}
+
+.name-header {
+font-size: larger;
+font-style: bold;
+font-family: arial;
+height: 10px;
+align-self: center;}
+
+.background-nav-picture {
+background-image: url(https://media-exp1.licdn.com/dms/image/C4D16AQHrcBoCBOrWYA/profile-displaybackgroundimage-shrink_200_800/0?e=1611792000&v=beta&t=mBwJYtM8jb5zlDJkCWoCG1Z2qNUe-1t1l6CsO-NCWIg);
+background-repeat: no-repeat;
+background-attachment: auto;    
+background-size: contain;
+margin-bottom: none;    
+image-rendering: auto;    
+}    
+
+#lili-pic {
+border-radius: 100%;
+margin-bottom: 10px;
+margin-top: 10px;
+padding-left: 10px;
+}
+
+#about-me {
+margin-top: none;
+padding: none;
+background-color: rgb(248, 152, 235);
+}   
+
+h3 {
+text-align: center;
+background-color: rgb(248, 152, 235);
+}
+
+.academic-nav {
+background-color: yellowgreen;
+
+}
+
+#academic-content {
+background-color: red;
+}
+
+#work-nav {
+background-color: blue;
+
+}
+
+#work-content {
+background-color: red;
+
+}
+
+.companies-name {
+font-size: larger;
+color;
+}
+
+.companies-link {
+color: yellow;
+text-decoration: none;
+}
+
+.footer {
+background-color: rgb(250, 137, 235);
+}
+
+.footer-content {
+background-color: red;
+}
+
+
