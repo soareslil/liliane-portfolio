@@ -1,0 +1,40 @@
+.pic {
+    display: block;
+}
+
+.name {
+    display: block; 
+
+}
+
+.desc {
+    display: block;
+    
+}
+
+h1 { 
+font-weight: bold;
+font-family: fantasy;
+font-size: large;
+font-style: normal;
+text-align: center
+}
+h2 {
+font-weight: bold;
+text-align: center;
+}
+h4 {
+font-size:large;
+font-weight: bold;
+font-style: normal;
+font-family: fantasy;
+}
+h5 {
+font-weight: 900;
+font-family: fantasy;
+font-size: large;
+font-style: normal;
+}
+#cor-azul {
+color: blue;
+}
